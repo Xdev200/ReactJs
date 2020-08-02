@@ -20,8 +20,8 @@ class App extends React.Component{
             <Skills/>
             <Books/>
             <Contact/>
-            <Footer/>
           </div>
+          <Footer/>
         </div>
         <Bg/>
       </div>
