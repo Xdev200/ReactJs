@@ -6,6 +6,7 @@ import Work from './components/Work'
 import Skills from './components/Skills'
 import Books from './components/Books'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 class App extends React.Component{
   render(){
@@ -19,6 +20,7 @@ class App extends React.Component{
             <Skills/>
             <Books/>
             <Contact/>
+            <Footer/>
           </div>
         </div>
         <Bg/>
